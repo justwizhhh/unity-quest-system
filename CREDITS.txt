@@ -1,0 +1,11 @@
+Asset Credits
+Game Engine Programming - Unity Quest System
+
+-------------------------------------------
+
+"Notice board low-poly" 3D model made by Viktor_ - Accessed from: https://sketchfab.com/3d-models/notice-board-low-poly-c7253f06bb8c49b0afcd60a509a8240c
+
+"UI Pack - Adventure" UI textures made by Kenney - Accessed from: https://www.kenney.nl/assets/ui-pack-adventure
+"Iceberg" font made by Cyreal - Accessed from: https://fonts.google.com/specimen/Iceberg?query=iceberg
+
+-------------------------------------------

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3ceb929a0836746b32d70b5b781e9a, type: 3}
+  m_Name: TestBounty
+  m_EditorClassIdentifier: 
+  Name: Complete the test bounty!
+  Icon: {fileID: 21300000, guid: bc00ab4df3713c64b9ac7cdf2b5488c6, type: 3}
+  Description: This is a description for the test bounty! Complete it to get some
+    XP I guess. Or, well, you don't have to.
+  CollectConditions:
+  - ObjectName: ExampleItem
+    Count: 3
+    ObjectDescription: Collect 3 yellow square items.
+  ExploreConditions:
+  - LocationPosition: {x: 0.816, y: 1.928, z: 12.25}
+    Radius: 1.5
+    LocationDescription: Locate the floating green sphere.
+  StatRewards:
+  - StatName: 2
+    Count: 200
+  - StatName: 2
+    Count: 200
+  - StatName: 2
+    Count: 200
+  - StatName: 2
+    Count: 200
+  ItemRewards:
+  - ItemName: Arrow
+    Count: 3
+    IsUnique: 0
